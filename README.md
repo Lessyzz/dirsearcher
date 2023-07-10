@@ -12,7 +12,7 @@ dirsearcher.py -u https://lessy.pythonanywhere.com/dirsearcher -t 150 -w /root/D
 
 ---
 
-![image](https://github.com/Lessyzz/firs/assets/102208615/e401b359-004c-4465-9fd2-3559c7f16f85)
+![image](https://github.com/Lessyzz/firs/assets/102208615/9f593195-6f08-479c-a7be-dbc99775b48f)
 
 https://github.com/Lessyzz/firs/assets/102208615/644ac0fa-1967-4df3-b5a1-dfa40652e3b7
 
