@@ -52,7 +52,7 @@ class DirectorySearcher():
         return self.thread_local.session
 
     def scan_url(self):
-        thread_num = 150
+        thread_num = self.threads
         for i in range(thread_num):
             t_worker = Thread(target = self.scan_function)
             t_worker.start()
